@@ -1,3 +1,5 @@
+adb start-server
+
 adb shell input keyevent 34
 adb shell input keyevent 49
 adb shell input keyevent 31
