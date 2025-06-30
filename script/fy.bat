@@ -1,5 +1,5 @@
 adb start-server
-
+::RUN FROM THE TERMINAL USING ./ !!
 adb shell input keyevent 34
 adb shell input keyevent 49
 adb shell input keyevent 31
